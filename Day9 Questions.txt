@@ -1,0 +1,68 @@
+1. Which among the following is the first step in accessing the database?
+
+ -> a. Load/Register the driver
+    b. Close the connection
+    c. Execute the statements
+    d. Process the results
+
+2. Which of the following method is correct to retrive the connection object?
+ 
+    a. DriverManager.useConnection(url);
+ -> b. DriverManager.getConnection(url);
+    c. DriverManager.requestConnection(url);
+    d. All of the above 
+
+3. The createStatement() method returns an object of type__________?
+ 
+    a. PreparedStatement
+    b. CallableStatement
+  ->c. Statement
+    d. All of the above
+
+4. Which of the following class is used to represent the result of the SQL query?
+   
+    a. SortedSet
+    b. HashSet
+    c. TreeSet
+  ->d. ResultSet
+
+5. Which among the following method is used in JDBC transaction management?
+
+    a. setAutoCommit(false)
+    b. commit()
+    c. rollback()
+  ->d. All of the above
+
+6. The default java annotations belong to the package________?
+    a. java.util; 
+  ->b. java.lang;
+    c. java.io;      
+    d. java.sql;
+
+7. In the declaration long l= 0B0111L; 0B or 0b is used to declare______?
+
+   a. Hexadecimal values
+   b. Decimal values
+   c. Integer values
+ ->d. Binary values
+
+8. Which of the following declaration is correct?
+
+   a. List<> list2 = new ArrayList<Integer>();
+   b. List<> list2 = new ArrayList<>();
+ ->c. List<Integer> list2 = new ArrayList<>();
+   d. None of the above
+
+9. The concept of functional programming in Java8 is introduced using_______?  
+   
+ ->a. Lambda Expressions
+   b. Annotations
+   c. Ternary operator
+   b. All of the above
+
+10. A functional interface in Java can have_______?
+
+   a. only two abstract methods
+   b. many abstract methods 
+   c. no abstract method
+ ->d. only one abstract method
